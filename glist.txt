@@ -255,7 +255,7 @@
     "authorsite": "https://player03.com/run/1/beta/",
     "desc": "desc"
   },
-  "tanuki-sunset": {
+  "tanukisunset": {
     "name": "Tanuki Sunset",
     "tags": "Endless,Driving,Skateboard,3D,Drifting",
     "date": "2024-12-07",
